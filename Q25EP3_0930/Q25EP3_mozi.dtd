@@ -1,0 +1,8 @@
+
+<!ELEMENT mozi (film*)>
+<!ELEMENT film (cim+, rendezo+, ev+)>
+<!ATTLIST film mufaj (akcio | komedia | drama) #REQUIRED>
+<!ELEMENT cim (#PCDATA)>
+<!ELEMENT rendezo (#PCDATA)>
+<!ELEMENT ev (#PCDATA)>
+
