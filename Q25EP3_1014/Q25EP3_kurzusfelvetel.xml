@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Neptunkod_kurzusfelvetel SYSTEM "Neptunkod_kurzusfelvetel.dtd">
+<Neptunkod_kurzusfelvetel tanev="2026/27 I." egyetem="Miskolci Egyetem">
+    <hallgato>
+        <hnev>Példa Péter</hnev>
+        <szulev>2003</szulev>
+        <szak evf="2">Mérnökinformatikus</szak>
+    </hallgato>
+    <kurzusok>
+        <kurzus id="k1" jovahagyas="igen" nyelv="magyar">
+            <kurzusnev>Webes adatkezelés</kurzusnev>
+            <kredit>5</kredit>
+            <hely>INFO/101</hely>
+            <idopont>Szerda 12:00</idopont>
+            <oktato>Dr. Bednarik László</oktato>
+        </kurzus>
+        <kurzus id="k2" jovahagyas="nem" nyelv="angol">
+            <kurzusnev>Webtechnológiák</kurzusnev>
+            <kredit>5</kredit>
+            <hely>A1/202</hely>
+            <idopont>Hétfő 14:00</idopont>
+            <oraado>Agárdi Anita</oraado>
+        </kurzus>
+        <kurzus id="k3">
+            <kurzusnev>Mobilprogramozás</kurzusnev>
+            <kredit>5</kredit>
+            <hely>INFO/101</hely>
+            <idopont>Szerda 12:00</idopont>
+            <idopont>Hétfő 16:00</idopont>
+            <oraado>Agárdi Anita</oraado>
+        </kurzus>
+    </kurzusok>
+</Neptunkod_kurzusfelvetel>
