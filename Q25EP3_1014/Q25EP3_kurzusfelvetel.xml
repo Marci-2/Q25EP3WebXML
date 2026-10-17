@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+ <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Neptunkod_kurzusfelvetel SYSTEM "Neptunkod_kurzusfelvetel.dtd">
 <Neptunkod_kurzusfelvetel tanev="2026/27 I." egyetem="Miskolci Egyetem">
     <hallgato>
@@ -30,4 +30,4 @@
             <oraado>Agárdi Anita</oraado>
         </kurzus>
     </kurzusok>
-</Neptunkod_kurzusfelvetel>
+</Neptunkod_kurzusfelvetel> 
