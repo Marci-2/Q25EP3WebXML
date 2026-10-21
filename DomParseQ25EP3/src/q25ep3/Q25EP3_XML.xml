@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LM_etterem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xsi:noNamespaceSchemaLocation="Q25EP3_XMLSchema.xsd">
+
+    <etterem ekod="e1">
+        <nev>LM Étterem</nev>
+        <csillag>5</csillag>
+        <cim>
+            <varos>Miskolc</varos>
+            <utca>Egyetem út</utca>
+            <hazszam>1</hazszam>
+        </cim>
+
+        <foszakacs fkod="f1">
+            <nev>Nagy Péter</nev>
+            <eletkor>42</eletkor>
+            <vegzettsev>Mester szakács</vegzettsev>
+            <vegzettsev>Élelmiszermérnök</vegzettsev>
+        </foszakacs>
+
+        <szakacs szkod="sz1">
+            <nev>Kovács István</nev>
+            <reszleg>Melegkonyha</reszleg>
+            <vegzettsev>Szakács szakképesítés</vegzettsev>
+        </szakacs>
+
+        <gyakornok gykod="gy1">
+            <nev>Tóth Anna</nev>
+            <gyakorlat>
+                <kezdete>2026-02-01</kezdete>
+                <idotartama>6 hónap</idotartama>
+            </gyakorlat>
+            <muszak>délelőtt</muszak>
+            <muszak>délután</muszak>
+        </gyakornok>
+
+        <rendeles>
+            <osszeg>12500</osszeg>
+            <etel>Bécsi szelet</etel>
+            <vendeg vkod="v1">
+                <nev>Szabó Gábor</nev>
+                <eletkor>30</eletkor>
+                <cim>
+                    <varos>Miskolc</varos>
+                    <utca>Fő utca</utca>
+                    <hazszam>12</hazszam>
+                </cim>
+            </vendeg>
+        </rendeles>
+    </etterem>
+
+</LM_etterem>
